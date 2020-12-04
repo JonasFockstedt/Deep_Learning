@@ -10,3 +10,4 @@ MLP's (MLP folder)
 CNN's (lab_classification folder)
 
 ## Lab 3
+Segmentation

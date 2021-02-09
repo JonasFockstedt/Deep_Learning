@@ -10,7 +10,7 @@ MLP's (MLP folder)
 CNN's (lab_classification folder)
 
 ## Lab 3
-Segmentation
+Image segmentation (lab3 folder)
 
 ## Project
 Using GANs to predict the final frame of a sequence of frames, given the first frame.

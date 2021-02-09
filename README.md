@@ -11,3 +11,6 @@ CNN's (lab_classification folder)
 
 ## Lab 3
 Segmentation
+
+## Project
+Using GANs to predict the final frame of a sequence of frames, given the first frame.
